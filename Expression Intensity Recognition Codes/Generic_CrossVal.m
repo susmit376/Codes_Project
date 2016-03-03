@@ -1,6 +1,23 @@
+
 %%%%%%%
 %% Author: Susmit Mohan Joshi
 %%%%
+
+% L.J.P. van der Maaten, E.O. Postma, and H.J. van den Herik. Dimensionality Reduction: A Comparative Review. Tilburg University Technical Report, TiCC-TR 2009-005, 2009.  PDF
+% L.J.P. van der Maaten and G.E. Hinton. Visualizing High-Dimensional Data Using t-SNE. Journal of Machine Learning Research 9(Nov):2579-2605, 2008.
+
+% @Inproceedings{HN03,
+%         author = {Xiaofei He and Partha Niyogi},
+%         title = {Locality Preserving Projections},
+%         booktitle = {Advances in Neural Information Processing Systems 16},
+%         year = {2003}}
+
+% @INPROCEEDINGS{LinearTimeLDA,
+%          AUTHOR = {Deng Cai and Xiaofei He and Jiawei Han},
+%          TITLE = {Training Linear Discriminant Analysis in Linear Time},
+%          BOOKTITLE = {Proc. 2008 Int. Conf. on Data Engineering (ICDE'08)},
+%          YEAR = {2008}, }
+s
 %% Script for Cross- Validation over the CK dataset for Emotion Intensity Recognition
 clear all;
 

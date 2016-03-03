@@ -1,5 +1,13 @@
 addpath('C:\Users\susmit.joshi\Desktop\RIT Sem 4');
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% @misc{vedaldi08vlfeat,
+%  Author = {A. Vedaldi and B. Fulkerson},
+%  Title = {{VLFeat}: An Open and Portable Library
+%           of Computer Vision Algorithms},
+%  Year  = {2008},
+%  Howpublished = {\url{http://www.vlfeat.org/}}
+
 %%Emotion Intensity Recognition
 %% Author: Susmit Mohan Joshi
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
